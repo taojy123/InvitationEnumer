@@ -26,8 +26,8 @@ email = "xiaoge987@gmail.com"
 password = "9e9514b2"
 start = 470
 
-# email = raw_input("Email:")
-# password = raw_input("Password:")
+email = raw_input("Email:")
+password = raw_input("Password:")
 start = raw_input("Start Number:")
 if start:
     start = int(start)
